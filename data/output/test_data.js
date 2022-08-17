@@ -1,0 +1,1 @@
+[{"user_id":112,"organisation":53,"data":[{"date_time":"2022-08-15 10:53","count":563},{"date_time":"2022-08-15 07:28","count":200}]},{"user_id":4891,"organisation":137,"data":[{"date_time":"2022-08-15 09:12","count":1004}]},{"user_id":76,"organisation":12,"data":[{"date_time":"2022-08-15 11:44","count":786},{"date_time":"2022-08-15 06:03","count":171}]}]
